@@ -1,1 +1,1 @@
-### Built with Node.js, React.js and Socket.io.
+Built with Node.js, React.js and Socket.io.
